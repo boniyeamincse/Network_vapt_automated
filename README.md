@@ -22,7 +22,7 @@ sudo apt update && sudo apt install -y nmap nikto dnsenum testssl.sh
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Network-VAPT-Script.git
+[git clone https://github.com/yourusername/Network-VAPT-Script.git](https://github.com/boniyeamincse/Network_vapt_automated.git)
 cd Network-VAPT-Script
 ```
 
