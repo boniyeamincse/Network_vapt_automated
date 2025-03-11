@@ -55,7 +55,7 @@ chmod +x vapt_scan.sh
 This project is **open-source** under the MIT License.
 
 ## 📧 Contact
-For any queries, reach out to **[Your Name]** at [Your Email] or connect on **[LinkedIn]**.
+For any queries, reach out to **Boni Yeamin** at boniyeamin.cse@gmail.com or connect on **[LinkedIn]**.
 
 Happy Hacking! 🚀
 
